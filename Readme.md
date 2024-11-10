@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Proyecto en Java
 
 Proyecto básico insertando texto para imprimirlo.
 
